@@ -1,0 +1,9 @@
+/.terraform
+/aws_lambda
+/aws_vpc
+/d
+/EC2
+/module
+/s3_bucket
+/sg
+/vpc
