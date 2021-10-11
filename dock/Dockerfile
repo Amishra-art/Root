@@ -1,3 +1,5 @@
+# Dockerfile image
+
 FROM ubuntu:latest
 ARG MY=casino
 RUN echo "Hey there! Welcome to DOCKERFILE"
